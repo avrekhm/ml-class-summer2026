@@ -2,3 +2,6 @@
 *.csv
 *.mbox
 *.mbx
+
+## documents
+*.pdf
